@@ -45,7 +45,7 @@
    "branch"     : "n7x-caf"
  },
  {
-   "repository" : "DirtyUnicorns/proprietary_vendor_xiaomi",
+   "repository" : "DirtyUnicorns/android_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
    "branch"     : "n7x-caf"
  }
